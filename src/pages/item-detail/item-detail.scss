@@ -11,4 +11,37 @@ page-item-detail {
     background: white;
     position: absolute;
   }
+
+  .backg{
+    background: #29332F;
+  }
+  .it ion-item{
+    background: none;
+    //border: 1px solid white;
+    margin-top:10px;
+    border-radius: 50px;
+    color: white;
+    ion-icon{
+      color:white;
+      font-size: 30px;
+    }
+
+  }
+  .it{
+    margin-top: 10px;
+  }
+  .space{
+    color: white;
+    display: inline-block;
+    width: 160px!important;
+    font-size:13px!important;
+    
+  }
+  .det{
+    font-size:13px!important;
+  }
+  .green{
+    color: #0AE33E;
+  }
+
 }
